@@ -1,13 +1,12 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import util as ut
 
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('ok garoto')
+    var_teste = ut.teste_func(10)
+    print(var_teste + 1)
 
 
 # Press the green button in the gutter to run the script.
