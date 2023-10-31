@@ -7,6 +7,7 @@ def print_hi(name):
     print('ok garoto')
     var_teste = ut.teste_func(10)
     print(var_teste + 1)
+    print('.')
 
 
 # Press the green button in the gutter to run the script.
